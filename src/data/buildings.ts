@@ -1,9 +1,9 @@
-import * as data from './buildings.json';
+import data from './buildings.json';
 
-export const getAll = () => {
+export const getAll = async () => {
     return data
 }
 
-export const getOne = (id: string) => {
+export const getOne = async (id: number) => {
     return data.find((ele) => ele.id === id)
 }

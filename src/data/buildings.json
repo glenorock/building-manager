@@ -1,25 +1,37 @@
 [{
-        "id": "",
-        "lable": ""
+        "id": 1,
+        "lable": "Immeuble 01",
+        "addresse": "Terre rouge Nsimeyong, Yaoundé",
+        "matriculation": "BK-568-SR"
     },
     {
-        "id": "",
-        "lable": ""
+        "id": 2,
+        "lable": "Immeuble 02",
+        "addresse": "Sand pit, Buea",
+        "matriculation": "DE-652-SR"
     },
     {
-        "id": "",
-        "lable": ""
+        "id": 3,
+        "lable": "Immeuble 03",
+        "addresse": "Rond point Damas, Yaoundé",
+        "matriculation": "AK-253-SR"
     },
     {
-        "id": "",
-        "lable": ""
+        "id": 4,
+        "lable": "Immeuble 04",
+        "addresse": "Carrefour Obili, Yaoundé",
+        "matriculation": "CA-112-VK"
     },
     {
-        "id": "",
-        "lable": ""
+        "id": 5,
+        "lable": "Immeuble 05",
+        "addresse": "Total Melen, Yaoundé",
+        "matriculation": "EB-214-FG"
     },
     {
-        "id": "",
-        "lable": ""
+        "id": 6,
+        "lable": "Immeuble 06",
+        "addresse": "Emia, Yaoundé",
+        "matriculation": "RG-965-TH"
     }
 ]
